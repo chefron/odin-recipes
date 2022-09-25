@@ -1,0 +1,1 @@
+The recipe website assignment for the Odin project. The first true test of my HTML skills, which I'm somewhat confident in. Hope I didn't just jinx it!
